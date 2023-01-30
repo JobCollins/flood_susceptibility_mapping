@@ -1,0 +1,1 @@
+https://geonode.wfp.org/geoserver/wfs?format_options=charset:UTF-8&typename=geonode:ken_nhr_floods_wfp_2018&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature
